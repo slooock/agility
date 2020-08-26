@@ -22,6 +22,13 @@ Também foi desenvolvida o UX da aplicação pelo Figma, que pode ser acessado n
 <p>
 
 ## Como executar a aplicação?
+git clone https://github.com/slooock/agility.git
+cd agility
+composer install
+php artisan serve
+
+### OBS
+Ao executar a aplicação o usuário terá duas opções GET ou POST, como pedido na especificação. Também foi inserido campos em um formulário para que os usuarios sejam filtrados, é importante lembrar que os campos devem ser preenchidos exatamente como devem ser buscados por exemplo: Ao buscar um usuário que seja da Id Comunicação, a busca não pode ser feita passando apenas Comunicação ou apenas Id, deverá ser colocado Id Comunicação desta maneira todos os usuários que possuem este customer serão retornados na lista.
 
 ## License
 
