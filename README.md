@@ -1,4 +1,8 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<h1 align="center">
+    <img alt="Proffy" src="images/agility-networks-logo.png" height="100px" />
+    <br>Next Level Week #2<br/>
+    Node.js | ReactJS | React Native
+</h1>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
