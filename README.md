@@ -18,7 +18,7 @@ Desenvolvido usando PHP e Laravel, esta aplicação tem como objetivo fazer algu
 Também foi desenvolvida o UX da aplicação pelo Figma, que pode ser consultado neste link: [Design Figma](https://www.figma.com/file/sVlFtVHyWKhfKxRCpOLkBL/Agility?node-id=0%3A1)
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="images/design.png" />
+  <img alt="design do projeto" width="650px" src="images/layout.png" />
 <p>
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
