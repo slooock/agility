@@ -23,8 +23,11 @@ Também foi desenvolvida o UX da aplicação pelo Figma, que pode ser acessado n
 
 ## Como executar a aplicação?
 git clone https://github.com/slooock/agility.git
+
 cd agility
+
 composer install
+
 php artisan serve
 
 ### OBS
