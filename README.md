@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img alt="Proffy" src="images/agility-networks-logo.png" height="100px" />
-    <br>Next Level Week #2<br/>
-    Node.js | ReactJS | React Native
+    <img alt="Agility" src="images/agility-networks-logo.png" height="100px" />
+    <br>Processo Agility<br/>
+    PHP | Laravel | HTML | CSS
 </h1>
 
 <p align="center">
