@@ -15,6 +15,12 @@
 
 Desenvolvido usando PHP e Laravel, esta aplicação tem como objetivo fazer algumas requisições e tratar os dados retornados no formato JSON, além de mostrar na tela para que o usuário realize pesquisas filtrando os dados obtidos.
 
+Também foi desenvolvida o UX da aplicação pelo Figma, que pode ser consultado neste link: [Design Figma](https://www.figma.com/file/sVlFtVHyWKhfKxRCpOLkBL/Agility?node-id=0%3A1)
+
+<p align="center">
+  <img alt="design do projeto" width="650px" src="./images/design.png" />
+<p>
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
